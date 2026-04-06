@@ -7,7 +7,7 @@ const QUESTIONS = [
     prompt: "Erna Puder dade",
     answer: "Apulu",
     incorrectMessage: "Undu atth , Yan deethina puder dade👊",
-    revealMessage: "Correct answer Apulu' 😌",
+    revealMessage: "Correct answer Apulu😃",
     successMessage: "Ushar jojja😘",
   },
   {
@@ -15,7 +15,7 @@ const QUESTIONS = [
     prompt: "What makes Viju happy?",
     answer: "Cheepeda",
     incorrectMessage: "Undu atth 😏🤷‍♂️",
-    revealMessage: "correct answer Cheepeda😔",
+    revealMessage: "correct answer Cheepeda 😜",
     successMessage: "Ushar jojja Korle cheepeda🥳",
   },
   {
